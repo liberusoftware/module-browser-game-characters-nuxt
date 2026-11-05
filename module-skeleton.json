@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-characters-nuxt",
+  "capabilityKey": "liberusoftware/module-browser-game-characters",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-browser-game-characters-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/browser-game/nextjs/characters.md",
+  "presentationPlan": "projects/browser-game/nuxt/characters.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
